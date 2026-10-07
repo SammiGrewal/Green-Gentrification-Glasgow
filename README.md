@@ -2,7 +2,7 @@
 
 Is green gentrification happening in Glasgow? This project looks at private rents and neighbourhood deprivation between 2016 and 2024 to find out rent dynamics across the city's neighbourhoods.
 
- **[View the full report](https://github.com/SammiGrewal/Green-Gentrification-Glasgow/blob/main/Green_Gentrification_Glasgow.html)**: an HTML export of the Jupyter notebook, with the code, figures and write-up.
+ **[View the full report](https://sammigrewal.github.io/Green-Gentrification-Glasgow/Green_Gentrification_Glasgow.html))**
 
 ---
 
